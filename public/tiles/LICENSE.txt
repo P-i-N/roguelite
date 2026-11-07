@@ -1,0 +1,9 @@
+The images in this folder are from DawnLike, the 16x16 Universal Rogue-like tileset v1.81,
+by DragonDePlatino (https://opengameart.org/content/dawnlike-16x16-universal-rogue-like-tileset-v181).
+The palette is by DawnBringer.
+
+They are used under the Creative Commons Attribution-ShareAlike 3.0 license
+(https://creativecommons.org/licenses/by-sa/3.0/), as stated in DAWNLIKE-README.txt.
+The sheets are unmodified copies of the originals.
+
+The game's code is separate from these images and is not covered by this license.
